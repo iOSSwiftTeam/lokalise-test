@@ -1,0 +1,3 @@
+"CFBundleName" = "lokalise-test";
+"This app uses an on-device VPN to identify dangerous websites before they cause harm. This is done in real-time, during which none of your personal data is stored or shared. When a VPN is running, you’ll see its icon in your status bar." = "彼らは害を引き起こす前に、このアプリは危険なウェブサイトを識別するためにデバイス上のVPNを使用しています。これはリアルタイムで行われ、その間あなたの個人データは保存も共有もされません。 VPNが実行されていると、ステータスバーにそのアイコンが表示されます。";
+"Try Again" = "再試行する";
